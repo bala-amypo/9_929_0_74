@@ -1,9 +1,13 @@
 package com.example.demo.entity;
 
+import org.hibernate.annotations.Generated;
 import org.springframework.data.annotation.Id;
+
+import jakarta.persistence.GenerationType;
 
 public class Location {
     @Id
+    @Genetrategy = GenerationType.IDENTITY)
     private Long id;
     private String name;
     private Double latitude;
