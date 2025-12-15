@@ -1,6 +1,9 @@
 package com.example.demo.entity;
 
+import org.springframework.data.annotation.Id;
+
 public class Location {
+    @Id
     private Long id;
     private String name;
     private Double latitude;
