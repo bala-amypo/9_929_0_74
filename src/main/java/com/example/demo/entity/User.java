@@ -1,8 +1,9 @@
-// package com.example.demo.entity;
+ package com.example.demo.entity;
 
-// public class User {
+public class User {
    
     
 
     
-// }
+}
+ 
