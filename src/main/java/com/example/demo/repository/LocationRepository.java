@@ -1,5 +1,5 @@
-package com.example.demo.repository;
+// package com.example.demo.repository;
 
-public class LocationRepository {
+// public class LocationRepository {
     
-}
+// }
